@@ -1,4 +1,3 @@
-##Welcome on my GitHub
 
 ### My GitHub Stats
 
