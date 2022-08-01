@@ -4,18 +4,23 @@
 <p align="left" dir="auto">
 <a href="https://github.com/L3G3CLAN"><img width="420" src="https://github-readme-stats.vercel.app/api?username=L3G3CLAN&amp;count_private=true&amp;show_icons=true&amp;title_color=dc143c&amp;text_color=ffffff&amp;icon_color=dc143c&amp;hide_border=true&amp;bg_color=282a36&amp;layout=compact&amp;hide_title=false&amp;hide_rank=false" style="max-width: 100%;"></a>
 </p>
-<br />
+<br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/281826343040057345)](https://discord.com/users/281826343040057345)
+
+<br>
 
 ### I am
 - Bryan
-- 26
-<br />
+- 27
+
+<br/>
 
 ### Goals
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Nieuw Hosting for evre one
-<br />
+
+<br/>
 
 ### Social's: 
 - [Discord](https://discord.io/l3g3clan)
@@ -25,6 +30,7 @@
 - [Facebook](https://www.facebook.com/L3g3Clan)
 - [Tiktok](https://www.tiktok.com/@l3g3_clan)
 - [Instagram](https://www.instagram.com/l3g3_clan/)
+
 <br />
 
 <!--
