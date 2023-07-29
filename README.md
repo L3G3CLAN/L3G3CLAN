@@ -19,9 +19,7 @@
 ### Goals
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m working by [Galileo Academy](https://galileo-academy.nl/)
-
-### 🔭 I’m currently working on `JAMMA PTB`
-[![Discord Presence](https://lanyard.cnrad.dev/api/944750563285942313)](https://discord.com/users/944750563285942313)
+- 🔭 I’m currently working on [JAMMA PTB](https://discord.com/oauth2/authorize?client_id=944750563285942313&permissions=2205281600&scope=bot%20identify%20guilds%20applications.commands&redirect_url=panel.gamenodes.nl/api/callback&response_type=code)
 
 <br/>
 
