@@ -12,13 +12,16 @@
 
 ### I am
 - Bryan
-- 27
+- 28
 
 <br/>
 
 ### Goals
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m working by [Galileo Academy](https://galileo-academy.nl/)
+
+### 🔭 I’m currently working on `JAMMA PTB`
+[![Discord Presence](https://lanyard.cnrad.dev/api/944750563285942313)](https://discord.com/users/944750563285942313)
 
 <br/>
 
