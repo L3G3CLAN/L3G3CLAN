@@ -19,12 +19,15 @@
 ### Goals
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m working by [Galileo Academy](https://galileo-academy.nl/)
-- 🔭 I’m currently working on [JAMMA PTB](https://discord.com/oauth2/authorize?client_id=944750563285942313&permissions=2205281600&scope=bot%20identify%20guilds%20applications.commands&redirect_url=panel.gamenodes.nl/api/callback&response_type=code)
+- 🔭 I’m currently working on 
+  - JAMMA Discord Bot [JAMMA Support Discord](https://discord.gg/qJ3X3merrZ) [JAMMA Bot Invite](https://discord.com/oauth2/authorize?client_id=944750563285942313&permissions=2205281600&scope=bot%20identify%20guilds%20applications.commands&redirect_url=panel.gamenodes.nl/api/callback&response_type=code)
+  - CubeFM 
 
 <br/>
 
 ### Social's: 
-- [Discord](https://discord.io/l3g3clan)
+- [Discord](https://dsc.gg/l3g3clan)
+- [Website](https://l3g3clan.nl)
 - [Twitch.tv](https://twitch.tv/l3g3_clan)
 - [YouTube](https://www.youtube.com/channel/UCFcTI_cAkXHsJamsXFIyDsA)
 - [Twitter](https://twitter.com/L3G3_CLAN)
