@@ -12,15 +12,13 @@
 
 ### I am
 - Bryan
-- 29
+- 30
 
 <br/>
 
 ### Goals
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m working by [Galileo IT services](https://galileo-itservices.nl/)
 - 🔭 I’m currently working on 
-  - JAMMA Discord Bot [JAMMA Support Discord](https://discord.gg/qJ3X3merrZ) [JAMMA Bot Invite](https://discord.com/oauth2/authorize?client_id=944750563285942313&permissions=2205281600&scope=bot%20identify%20guilds%20applications.commands&redirect_url=panel.gamenodes.nl/api/callback&response_type=code)
   - CubeFM 
   - GitHook ( Github webhook filter selution )
 
