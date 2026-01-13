@@ -1,16 +1,18 @@
 
 ### My GitHub Stats
 
-## 📊 GitHub Stats Update
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=L3G3CLAN&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3G3CLAN&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=L3G3CLAN&show_icons=true&cache_seconds=21600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3G3CLAN&layout=compact&langs_count=6)
+![Streak](https://streak-stats.demolab.com?user=L3G3CLAN&theme=dark)
 
 ## 📈 Stats Progress
 
 | Before | After |
 |-------|------|
-| ![](https://github-readme-stats.vercel.app/api?username=L3G3CLAN&v=1) | ![](https://github-readme-stats.vercel.app/api?username=L3G3CLAN&v=2) |
+| ![](https://github-readme-stats.vercel.app/api?username=L3G3CLAN&v=1&cache_seconds=21600) | ![](https://github-readme-stats.vercel.app/api?username=L3G3CLAN&v=2&cache_seconds=21600) |
+
 
 <br>
 
