@@ -14,6 +14,16 @@
   <a href="https://www.youtube.com/channel/UCFcTI_cAkXHsJamsXFIyDsA">YouTube</a>
 </p>
 
+---
+
+<p align="center">
+  <a href="https://discord.com/users/281826343040057345">
+    <img src="https://lanyard.cnrad.dev/api/281826343040057345" />
+  </a>
+</p>
+
+---
+
 <!---
 
 ## 📊 GitHub Stats
@@ -113,14 +123,8 @@ _(and more in progress…)_
 - 🎵 TikTok: https://www.tiktok.com/@l3g3_clan  
 - 📸 Instagram: https://www.instagram.com/l3g3_clan/  
 
----
-
-<p align="center">
-  <a href="https://discord.com/users/281826343040057345">
-    <img src="https://lanyard.cnrad.dev/api/281826343040057345" />
-  </a>
-</p>
-
+<!--
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=L3G3CLAN&label=Profile%20Views&color=4&icon=5&pretty=true" />
 </p>
+-->
