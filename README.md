@@ -1,11 +1,17 @@
 
 ### My GitHub Stats
 
-[![GitStory](https://img.shields.io/badge/GitStory-L3G3CLAN-5865F2?style=for-the-badge)](https://gitstory.sitestash.org/L3G3CLAN)
+## 📊 GitHub Stats Update
 
-<p align="left" dir="auto">
-<a href="https://github.com/L3G3CLAN"><img width="420" src="https://github-readme-stats.vercel.app/api?username=L3G3CLAN&amp;count_private=true&amp;show_icons=true&amp;title_color=dc143c&amp;text_color=ffffff&amp;icon_color=dc143c&amp;hide_border=true&amp;bg_color=282a36&amp;layout=compact&amp;hide_title=false&amp;hide_rank=false" style="max-width: 100%;"></a>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=L3G3CLAN&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3G3CLAN&layout=compact)
+
+## 📈 Stats Progress
+
+| Before | After |
+|-------|------|
+| ![](https://github-readme-stats.vercel.app/api?username=L3G3CLAN&v=1) | ![](https://github-readme-stats.vercel.app/api?username=L3G3CLAN&v=2) |
+
 <br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/281826343040057345)](https://discord.com/users/281826343040057345)
@@ -21,17 +27,18 @@
 ### Goals
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I’m currently working on 
-  - CubeFM 
   - GitHook ( Github webhook filter selution )
-  - modora.xyz
-  - l3g3clan.nl
-  - now-playing.top
+  - [modora.xyz](https://modora.xyz)
+  - [l3g3clan.nl](https://l3g3clan.nl)
+  - [now-playing.top](https://now-playing.top)
+  - [EHBO TEAM RIJSWIJK](https://ehboteamrijswijk.nl/)
+  - [SHOP4EHBO](https://shop4ehbo.nl/)
   - more.....
 
 <br/>
 
 ### Social's: 
-- [Discord](https://dsc.gg/l3g3clan)
+- [Discord](https://discord.l3g3clan.nl)
 - [Website](https://l3g3clan.nl)
 - [Twitch.tv](https://twitch.tv/l3g3_clan)
 - [YouTube](https://www.youtube.com/channel/UCFcTI_cAkXHsJamsXFIyDsA)
