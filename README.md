@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/channel/UCFcTI_cAkXHsJamsXFIyDsA">YouTube</a>
 </p>
 
----
+<!---
 
 ## 📊 GitHub Stats
 
@@ -36,7 +36,7 @@
   />
 </p>
 
----
+--->
 
 ## 🛠️ Tech Stack
 
